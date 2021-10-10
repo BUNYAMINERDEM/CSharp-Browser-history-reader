@@ -1,0 +1,3 @@
+NOT:
+	Giriþ anahtarý 1'den 9'a kadar olan sayýlarý kutulara yerleþtiriniz.
+	Yataydaki , Dikeydeki ve Çapraz Kutularda bulunan sayýlarýn toplamý 15 olsun.
